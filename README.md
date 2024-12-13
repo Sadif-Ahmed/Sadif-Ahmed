@@ -42,6 +42,9 @@ Here are some of my notable projects:
 
 - **[Yoroi-no-Kyojin/Hackathon-HomeAssistant](https://github.com/Yoroi-no-Kyojin/Hackathon-HomeAssistant):** Contributed to the development of a home automation system using Home Assistant during a hackathon.
 - **[AuthentiDocs/authentidocs](https://github.com/AuthentiDocs/authentidocs):** Developed a decentralized application for document authentication .
+- **[Anidex](https://github.com/KyojinsAnidex/Anidex):**Created an IMBD version for anime and mangas where people can make their watchlists,give review and ratings to shows and also integrated a Reddit style thread system.
+- **[Secret-Breach-Prevention-In-Software-Issue-Reports](https://github.com/NafiuRahman77/Secret-Breach-Prevention-In-Software-Issue-Reports):**My Undergrad Thesis which focuses on preventing secret breaches in software issue reports by utilizing a combination of pre-trained language models (BERT, RoBERTa) and regex-based detection techniques.
+- **[Football Manager](https://github.com/Sadif-Ahmed/Football-Manager):**Level 1-2 Term Project(Java FX + Networking) A simple Project made using Java fx and implemented networking in it.
 
 ## Achievements
 

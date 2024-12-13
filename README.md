@@ -1,5 +1,51 @@
 # 💫 About Me:
 💫 About Me:<br>🔭 I’m currently working on LLMs , Software Security and Network Flows<br>👯 I’m looking to collaborate on Software Projects and Machine Learning Projects aligning with my interest of integrating AI into everyday software tasks<br>🤝 I’m looking for help with Fine-Tuning open source LLMs on low resource setups<br>🌱 I’m currently learning NLP Techniques and Prompt Engineering<br>💬 Ask me about anything. Will try to answer if it falls under my area of expertise or will try to nudge in the right direction<br>
+I'm a passionate and versatile developer with a keen interest in web development, machine learning, and blockchain technology. I enjoy exploring new technologies and building innovative solutions.
+
+## Skills
+
+### Programming Languages
+- C
+- C++
+- Java
+- Javascript
+- Python
+
+### Web Development
+- HTML
+- CSS
+- Next.js
+- Node.js
+- Express.js
+- SvelteKit
+- Svelte
+- Tailwind CSS
+
+### Machine Learning
+- TensorFlow
+- Keras
+- Scikit-learn
+- Pytorch
+
+
+### Tools & Technologies
+- Git
+- GitHub
+- Docker
+- MongoDB
+
+
+## Projects
+
+Here are some of my notable projects:
+
+- **[Yoroi-no-Kyojin/Hackathon-HomeAssistant](https://github.com/Yoroi-no-Kyojin/Hackathon-HomeAssistant):** Contributed to the development of a home automation system using Home Assistant during a hackathon.
+- **[AuthentiDocs/authentidocs](https://github.com/AuthentiDocs/authentidocs):** Developed a decentralized application for document authentication .
+
+## Achievements
+
+- **Pull Shark:** Awarded for consistently contributing to open-source projects.
+- **Quickdraw:** Recognized for rapidly completing coding challenges.
 
 
 ## 🌐 Socials:

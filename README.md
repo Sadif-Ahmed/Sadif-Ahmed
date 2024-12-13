@@ -1,7 +1,7 @@
 # 💫 About Me:
 💫 About Me:<br>🔭 I’m currently working on LLMs , Software Security and Network Flows<br>👯 I’m looking to collaborate on Software Projects and Machine Learning Projects aligning with my interest of integrating AI into everyday software tasks<br>🤝 I’m looking for help with Fine-Tuning open source LLMs on low resource setups<br>🌱 I’m currently learning NLP Techniques and Prompt Engineering<br>💬 Ask me about anything. Will try to answer if it falls under my area of expertise or will try to nudge in the right direction<br>
 
-I'm a passionate and versatile developer with a keen interest in web developmenta and machine learning. I enjoy exploring new technologies and building innovative solutions.
+I'm a passionate and versatile developer with a keen interest in web development and machine learning. I enjoy exploring new technologies and building innovative solutions.
 
 ## Skills
 
